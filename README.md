@@ -26,11 +26,11 @@ This library provides code for:
 ```
 4. Now, too run Mean, run the following command lines in order (we assume you've already in the related directory):
    
-   ```
+```
     g++ -std=c++11 -lgmpxx -lgmp main--mean.cpp -o main
    
     ./main
-   ```
+```
 
    
        
