@@ -17,10 +17,9 @@ This library provides code for:
 2. Install the library and unzip the file.
 3. To run Mode, run the following command lines in order:
 
+```bash
       cd Directory/FOT-main
-
       g++ -std=c++11 -lgmpxx -lgmp main--mode.cpp -o main
-
       ./main
 
 5. Now, too run Mean, run the following command lines in order (we assume you've already in the related directory):
