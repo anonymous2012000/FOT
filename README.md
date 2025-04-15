@@ -16,7 +16,7 @@ This library provides code for:
 1. Clone the above library.
 2. Install the library and unzip the file.
 3. To run Mode, run the following command lines in order:
-      cd Directory/FOT-main
+        cd Directory/FOT-main
 
       g++ -std=c++11 -lgmpxx -lgmp main--mode.cpp -o main
 
