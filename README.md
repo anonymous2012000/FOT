@@ -9,4 +9,4 @@ This library provides code for:
 
 ## Dependencies
 
-* GMP: https://gmplib.org/
+* [GMP](https://gmplib.org/)
