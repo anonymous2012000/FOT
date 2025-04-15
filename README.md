@@ -10,3 +10,25 @@ This library provides code for:
 ## Dependencies
 
 * [GMP](https://gmplib.org/)
+
+## Using the library
+
+1. Clone the above library.
+2. Install the library and unzip the file.
+3. To run Mode, run the following command lines in order:
+      cd Directory/FOT-main
+
+      g++ -std=c++11 -lgmpxx -lgmp main--mode.cpp -o main
+
+      ./main
+
+4. Now, too run Mean, run the following command lines in order (we assume you've already in the related directory):
+   
+      g++ -std=c++11 -lgmpxx -lgmp main--mean.cpp -o main
+   
+      ./main
+
+   
+       
+
+      
