@@ -33,6 +33,8 @@ This library provides code for:
 * Mean (based on FOT3): 
  
 ```
+    cd Directory/FOT-main
+
     g++ -std=c++11 -lgmpxx -lgmp FOT3--mean.cpp -o main
    
     ./main
