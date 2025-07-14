@@ -44,6 +44,6 @@ This library provides code for:
     g++ -std=c++17 FOT2--mean.cpp  -lhelib -lntl -lgmp -o main 
 
     ./main
-```
+
 
       
