@@ -12,6 +12,7 @@ This library provides code for:
 ## Dependencies
 
 * [GMP](https://gmplib.org/)
+* [HElib] (https://github.com/homenc/HElib) (if FOT2 is used)
 
 ## Using the library
 
