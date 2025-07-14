@@ -46,7 +46,4 @@ This library provides code for:
     ./main
 ```
 
-   
-       
-
       
