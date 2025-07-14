@@ -18,20 +18,31 @@ This library provides code for:
 
 1. Clone the above library.
 2. Install the library and unzip the file.
-3. To run Mode, run the following command lines in order:
+3. Run the following command lines to run:
+  
+   * Mode (based on FOT3): 
 
  ```
     cd Directory/FOT-main
 
-    g++ -std=c++11 -lgmpxx -lgmp main--mode.cpp -o main
+    g++ -std=c++11 -lgmpxx -lgmp FOT3--mode.cpp -o main
 
     ./main
 ```
-4. Now, too run Mean, run the following command lines in order (we assume you've already in the related directory):
+* Mean (based on FOT3): 
+
    
 ```
-    g++ -std=c++11 -lgmpxx -lgmp main--mean.cpp -o main
+    g++ -std=c++11 -lgmpxx -lgmp FOT3--mean.cpp -o main
    
+    ./main
+```
+* Mean (based on FOT2): 
+   ```
+    cd Directory/FOT-main
+
+    g++ -std=c++17 FOT2--mean.cpp  -lhelib -lntl -lgmp -o main 
+
     ./main
 ```
 
