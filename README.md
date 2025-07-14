@@ -20,7 +20,7 @@ This library provides code for:
 2. Install the library and unzip the file.
 3. Run the following command lines to run:
   
-   * Mode (based on FOT3): 
+* Mode (based on FOT3): 
 
  ```
     cd Directory/FOT-main
