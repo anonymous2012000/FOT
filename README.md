@@ -1,8 +1,9 @@
 # Functional Oblivious Transfer (FOT)
 ## Description
 This library provides code for: 
-  * Unconditionally secure functional t-out-of-n OT, where the function is [Mean](https://github.com/anonymous2012000/FOT/blob/main/FOT3--mean.cpp)
-  * Unconditionally secure functional t-out-of-n OT, where the function is [Mode](https://github.com/anonymous2012000/FOT/blob/main/FOT3--mode.cpp)
+
+  * FOT3: Unconditionally secure functional t-out-of-n OT, where the function is [Mean](https://github.com/anonymous2012000/FOT/blob/main/FOT3--mean.cpp)
+  * FOT3: Unconditionally secure functional t-out-of-n OT, where the function is [Mode](https://github.com/anonymous2012000/FOT/blob/main/FOT3--mode.cpp)
 
 
 
