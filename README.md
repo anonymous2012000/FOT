@@ -28,16 +28,18 @@ This library provides code for:
     g++ -std=c++11 -lgmpxx -lgmp FOT3--mode.cpp -o main
 
     ./main
+```
 
 * Mean (based on FOT3): 
-
-   
+ 
 ```
     g++ -std=c++11 -lgmpxx -lgmp FOT3--mean.cpp -o main
    
     ./main
+```
 
-* Mean (based on FOT2): 
+* Mean (based on FOT2):
+
    ```
     cd Directory/FOT-main
 
